@@ -1,4 +1,13 @@
-# BEAMIFY.ME: Project BEME
+# Project: [BEMIFY.ME](https://beamify.me)  
+Our project has a very interesting concept, where we create the platform that anyone can setup and deploy and use as their own. 
+It just doesn't stop there though, we want this platform to have everything. Hook it up to [Plesk]() and you have a fully functional WPP (Web Payment Platform),
+ attach to [Digital Ocean]() and you have a fully functional cloud platform. Even media streaming, we have that covered. Vertical, horizontal, up, down, left and right, 
+even scaling is simplified and made easier. [Docker]() & [Portainer]() support, both locally and on the cloud. We have it all.
+
+We are even building a fully functional content distribution network, with a twist. We are using [IPFS](), [Peer2Peer](), [Webtorrent]() and more, 
+to deliver a fully functional CDN that is decentralized and distributed.
+
+Our aim, is to cut costs on many factors, to make it easier for users to deploy and manage their own platforms, with functioning ways to develop and deploy their own applications.
 
 #### Current Roadmap
 ```mermaid
